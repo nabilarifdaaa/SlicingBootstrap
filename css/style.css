@@ -1,0 +1,23 @@
+#logo{
+	width: 117px; 
+	height: 41px;
+	margin-left: 75px;
+	margin-top: 25px;
+}
+
+#header-pics{
+	margin-left: 75px;
+	margin-top: 0px;
+	width: 590px; 
+	height: 498.97px;
+}
+
+.jumbotron1{
+	background-color: transparent;
+}
+
+.display-4{
+	font-size: 110px;
+	font-family: Ebrima;
+	color: #535461;
+}
